@@ -1,0 +1,16 @@
+{
+    "themeLight": {
+       
+            "name": "--bg",
+            "color": "#fff"
+        
+    },
+    "themeDark": {
+       
+        "name": "--bg",
+        "color": "#000"
+    
+}
+
+   
+}
